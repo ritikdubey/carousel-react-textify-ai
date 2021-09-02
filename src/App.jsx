@@ -10,7 +10,7 @@ function App() {
 
         async function gd() {
             const response = await axios.get("https://testimonialapi.toolcarton.com/api");
-            console.log(response.data);
+            // console.log(response.data);
             changedata(response.data);
         }
 
