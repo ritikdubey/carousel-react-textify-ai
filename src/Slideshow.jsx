@@ -38,6 +38,8 @@ function Slideshow() {
             } */}
 
 
+            <center><h1 style={{ fontSize: "3rem", fontFamily: "Quicksand", fontWeight: "bolder", marginTop: "-10px" }}>Testimonials</h1> </center>
+
             <Splide>
                 {
                     data.map((ele) => {

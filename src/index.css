@@ -1,5 +1,5 @@
 body{
-    background-color:darkgray;
+    background-color:#CEE5D0;
    
 }
 
@@ -14,12 +14,13 @@ body{
 
 .message{
     margin: auto;
-    padding-left: 35%;
-    padding-right: 35%;
-    margin-top: 5rem;
+    padding-left: 30%;
+    padding-right: 30%;
+    margin-top: 3rem;
     text-align: justify;
-    margin-bottom: 5rem;
+    margin-bottom: 3rem;
     font-family: 'Quicksand', sans-serif;
+    font-size: 2rem;
 }
 
 .pname{
@@ -30,4 +31,5 @@ body{
 .plocation{
     font-size: 1.5rem;
     font-family: 'Quicksand', sans-serif;
+    margin-top: -1rem;
 }
